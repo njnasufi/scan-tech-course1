@@ -1,2 +1,3 @@
 # scan-tech-course1
-Ushtrime
+
+Ketu mund te gjeni disa prej ushtrimeve dhe detyrave qe do t'i punojme pergjate kursit.
